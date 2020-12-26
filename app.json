@@ -1,0 +1,12 @@
+{
+  "name": "oase-client",
+  "displayName": "oase-client",
+  "expo": {
+    "name": "oase-client",
+    "slug": "oase-client",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
